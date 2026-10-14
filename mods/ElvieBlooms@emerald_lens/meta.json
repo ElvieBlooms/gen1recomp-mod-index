@@ -1,0 +1,29 @@
+{
+  "id": "emerald_lens",
+  "title": "Emerald Lens",
+  "author": "ElvieBlooms",
+  "version": "0.2.0",
+  "categories": [
+    "CONTENT",
+    "ART"
+  ],
+  "repo": "https://github.com/ElvieBlooms/emerald_lens",
+  "summary": "Gen 3 Trainer Sprite Replacements",
+  "tags": [
+    "sprites",
+    "player sprite",
+    "kris",
+    "teamkris",
+    "girl",
+    "gen3"
+  ],
+  "github": "ElvieBlooms/emerald_lens",
+  "downloadURL": "https://github.com/ElvieBlooms/emerald_lens/releases/download/v0.2.0/emerald_lens-0.2.0.zip",
+  "game_version": ">=0.3.53",
+  "license": "MIT",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "content"
+}
